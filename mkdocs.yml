@@ -1,2 +1,6 @@
 site_name: My Docs
-theme: material
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
